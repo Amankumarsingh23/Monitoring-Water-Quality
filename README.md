@@ -1,17 +1,38 @@
-# Water-Quality-Monitoring
+Big Data Analytics & Visualization Projects
+This repository contains a collection of self-driven data analytics and visualization projects developed using Python, SQL, and Power BI.
 
-Challenge hosted by **Omdena Kutch Chapter**
+Each notebook or report includes:
 
-The challenge focuses on creating a Water Quality Monitoring Dashboard that visualizes the parameters to determine the water quality.
+Exploratory Data Analysis (EDA)
 
-It was a phase of exploration while contributing for various tasks involved from knowing water quality standards, gathering satellite data, parameters identification, model development and integrating it with deployment.
+Data Cleaning & Preprocessing
 
-This feature would aid in checking out the conditions in real-time. We have taken the parameters of Salinity, Chlorophyll, Suspended Matter, Dissolved Organic Matter, Dissolved Oxygen, Turbidity, Temperature and pH. and have used Google Earth Engine to attain remote sensing data.
+Visual Insights & Dashboards
 
-**Original Repo Link** : https://github.com/OmdenaAI/omdena-kutch-India-water-qality-monitoring-
+Summaries of Key Findings
 
-**Water Quality Monitoring Dashboard Final Presentation** : https://docs.google.com/presentation/d/1Stb6vlbMlVoujyg-EZp63xcxcBBQg5ME/edit?usp=sharing&ouid=101910884647262199554&rtpof=true&sd=true
+These projects demonstrate my initiative to work with real-world datasets, derive insights, and present findings using various tools and techniques in data analytics.
 
-**Water Quality Monitoring Dashboard Streamlit App** : https://share.streamlit.io/prathimacode-hub/water-quality-monitoring/main/main.py
+Project Index
+No.	Project Title	Tool
+01	TMDB Movie Ratings Analysis	Python
+02	Auto MPG Dataset Analysis	Python
+03	Medical Appointments No-Show Analysis	Python
+04	9000+ Movies Dataset EDA	Python
+05	Wine Quality Dataset Exploration	Python
+06	Digital Music Store SQL Queries	SQL
+07	Data Model for Seven Sages Brewing Company	Power BI
+08	Waggle Company Dashboard	Power BI
+09	Market Report for a National Clothing Chain	Power BI
+10	Sales Analytics Guided Project (Coursera)	Power BI
+11	Dyslexia and Music Note Patterns Report	Power BI
 
-**Water Quality Monitoring Dashboard Heroku App** : https://kutch-water-quality-monitoring.herokuapp.com/
+Tools & Technologies
+Python (pandas, matplotlib, seaborn)
+
+SQL (MySQL, PostgreSQL)
+
+Power BI (Data Modeling, DAX, Reporting)
+
+Objective
+The aim of this repository is to build a practical understanding of the data analytics process through hands-on experience with a variety of datasets. Projects span across different domains such as healthcare, entertainment, retail, and business operations.
